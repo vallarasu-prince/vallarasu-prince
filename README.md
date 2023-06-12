@@ -12,7 +12,7 @@
 - 💬 Talk to me about python, silicon valley & startups
 
 - 📫 Reach me : [![Linkedin Badge](https://img.shields.io/badge/-vallarasu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vallarasu-j/)](https://www.linkedin.com/in/vallarasu-j/)
-[![BuyMeCoffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-ff813f?style=flat-square&logo=buy-me-a-coffee&logoColor=white&link=https://www.buymeacoffee.com/vallarasuj)](https://www.buymeacoffee.com/vallarasuj)
+
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
