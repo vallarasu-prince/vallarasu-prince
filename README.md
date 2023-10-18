@@ -1,25 +1,30 @@
-# Hi there 👋, I'm Vallarasu
-<!-- <p align="center">
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="30" /></a>&nbsp;
-<a href=""><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p> -->
+# Hi there! 👋 I'm Vallarasu
 
-### About Me:
-- 🏦 I'm Full stack developer working for a Tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.js**, **.py**,  **.sql**
+I'm a Full Stack Developer. With a toolkit that includes  React.js, Node js, Python, MongoDB and a sprinkle of Flutter magic, I'm on a mission to turn coding into a delightful adventure. Let's collaborate and create some amazing tech wonders! 🌌🚀✨💻 #ExploreTheUnseen
 
-- 💬 Talk to me about python, silicon valley & startups
+## About Me :
 
-- 📫 Reach me : [![Linkedin Badge](https://img.shields.io/badge/-vallarasu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vallarasu-j/)](https://www.linkedin.com/in/vallarasu-j/)
+- 🏦 I'm a Full Stack Developer.
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  
+- 💻 I engage daily with technologies such as React.js, JavaScript, Python, Node.js, MongoDB and Flutter.
 
-- 🧑‍💻 Tech I work on :
+
+- 📫 Reach me : 
+  [![Linkedin Badge](https://img.shields.io/badge/-vallarasu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vallarasu-j/)](https://www.linkedin.com/in/vallarasu-j/)
+   [![Instagram Badge](https://img.shields.io/badge/-vallarasu.prince-833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vallarasu.prince/)](https://www.instagram.com/vallarasu.prince/)
+   [![GitHub Badge](https://img.shields.io/badge/-vallarasu-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/vallarasu-j)](https://github.com/vallarasu-j/)
+
+## Skills :
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="55" height="55"/>
 </p>
+
+## Let's Connect:
+
+I am open to collaboration and always eager to contribute to innovative projects. Let's connect and leverage my skills to create exceptional solutions! 🚀
