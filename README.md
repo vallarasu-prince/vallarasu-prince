@@ -56,21 +56,6 @@ MongoDB • Redis
 AWS (EC2, S3, Lambda, Route53, SES)
 Docker • CI/CD • Git • Linux • Nginx
 ```
-
----
-
-## 📈 Highlights
-
-✨ Built scalable full-stack applications serving thousands of users.
-
-✨ Developed AI-powered chatbots, intelligent document processing systems, and semantic search platforms.
-
-✨ Reduced document processing time by 40% through workflow optimization and parallel processing.
-
-✨ Integrated secure payment systems handling 15,000+ monthly transactions.
-
-✨ Led engineering teams, architecture decisions, code reviews, and end-to-end product delivery.
-
 ---
 
 ## 🎯 Current Focus
@@ -87,8 +72,8 @@ Docker • CI/CD • Git • Linux • Nginx
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: [www.linkedin.com/in/vallarasu-j](http://www.linkedin.com/in/vallarasu-j)
-* 📸 Instagram: @vallarasu.prince
-* 💻 GitHub: github.com/vallarasu-prince
+* 📸 Instagram: [www.instagram.com/vallarasu.prince](https://www.instagram.com/vallarasu.prince)
+* 💻 GitHub: [github.com/vallarasu-prince](https://github.com/vallarasu-prince)
 
 ---
 
