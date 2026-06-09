@@ -54,9 +54,9 @@ Building scalable web applications, AI-powered solutions, and cloud-native produ
 
 ## 🌍 Connect With Me
 
-💼 LinkedIn: [vallarasu-j](www.linkedin.com/in/vallarasu-j)  
+💼 LinkedIn: [vallarasu-j](https://www.linkedin.com/in/vallarasu-j)  
 📸 Instagram: [@vallarasu.prince](https://www.instagram.com/vallarasu.prince)  
-💻 GitHub: [vallarasu-prince](github.com/vallarasu-prince)
+💻 GitHub: [vallarasu-prince](https://github.com/vallarasu-prince)
 
 ---
 
